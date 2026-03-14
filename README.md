@@ -21,9 +21,7 @@ The dashboard analyzes HR data to provide insights into employee distribution, s
 * Country-wise employee distribution
 * Hiring trend analysis
 
-## Screenshots
 
-(Add dashboard image here)
 
 ## Author
 
